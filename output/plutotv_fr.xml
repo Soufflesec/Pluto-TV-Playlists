@@ -1761,6 +1761,11 @@
         <desc>Qui est ce charmant et légendaire Gatsby dont les fêtes attirent toute la société locale? Les rumeurs les plus folles circulent. Un espion ou un gentleman anglais ? Un héros de guerre ou un mythomane?</desc>
         <icon src="https://images.pluto.tv/series/661e91104da6e30013d8a6d0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260324024337 +0000" stop="20260324045559 +0000">
+        <title>Black Rain</title>
+        <desc>Un policier new-yorkais est chargé d'escorter à Osaka un criminel japonais. Rapidement, ce dernier s'échappe. Le représentant de l'ordre va alors avoir beaucoup de mal à le retrouver dans un pays dont il ignore les us et coutumes.</desc>
+        <icon src="https://images.pluto.tv/series/66192efa2fd04d00130c94f4/tile_1768333686381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260323195742 +0000" stop="20260323215242 +0000">
         <title>Le dernier refuge: Au revoir monde</title>
         <desc>Alors qu'une mystérieuse attaque de cyberterroristes plongeait le monde dans le chaos, un groupe d'amis trouva refuge dans une maison perdue à la campagne. Confrontés à un avenir incertain, des tensions font surface et les dangers se multiplient.</desc>
@@ -5380,6 +5385,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Tungsten Talk</title>
         <desc>Leonard Gates joins Henry Deacon on Tungsten Talk to learn more about his breakthrough journey into darts.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dce8cf62654291f73f/tile_1757662181491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260324020900 +0000" stop="20260324023000 +0000">
+        <title>The Story of Josh Rock</title>
+        <desc>Discover how Josh Rock rapidly rose as a powerful young talent with big wins against darts' finest.</desc>
+        <icon src="https://images.pluto.tv/series/685323f3a53b0a8ce0d2584d/tile_1757617940632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67921b78b83355184c667770" start="20260323213000 +0000" stop="20260323220000 +0000">
         <title>UFC</title>
@@ -12460,6 +12470,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260324074600 +0000" stop="20260324094000 +0000">
         <title>Y'a que la vérité qui compte: Episode 10</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260324094000 +0000" stop="20260324104900 +0000">
+        <title>Y'a que la vérité qui compte: Episode 15</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
@@ -20694,6 +20709,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Le cadavre de Yann Levène est retrouvé battu à mort dans son appartement cambriolé. Diane interroge la petite amie de Yann, Noëlle Derval et Eugénie, sa fille.</desc>
         <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20260324173119 +0000" stop="20260324191340 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Le cadavre de Jérémy Dangin, ex-dealer sorti de prison depuis six mois, est retrouvé assassiné d’une balle dans la poitrine.</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6683cd0f63a5f20008fb84a3" start="20260324132926 +0000" stop="20260324135347 +0000">
         <title>Un si grand soleil</title>
         <desc>Julien doit concilier ses responsabilités familiales avec son statut de chef d'entreprise.</desc>
@@ -21133,6 +21153,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>The Professor and the Madman</title>
         <desc>En 1878, James Murray travaille sur la première édition de l’Oxford English Dictionary. À sa surprise, l’un de ses plus précieux contributeurs est le Dr Minor, ancien médecin militaire interné pour meurtre, qui lui envoie des milliers de fiches.</desc>
         <icon src="https://images.pluto.tv/series/686b6f0a31b6562298c24a13/tile_1751871245894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260324174016 +0000" stop="20260324200316 +0000">
+        <title>Infidèle</title>
+        <desc>Une femme trompe son mari. Celui-ci apprend les infidélités dont il est la victime et, lors d'une violente altercation, tue l'amant indélicat.</desc>
+        <icon src="https://images.pluto.tv/series/60647d33a224c9001bb85065/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260324125307 +0000" stop="20260324152236 +0000">
         <title>Gatsby le magnifique</title>
@@ -21656,6 +21681,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>The Swordsman</title>
         <desc>Corée, 1623. Pour sauver sa fille Tae-ok, enlevée par des marchands d’esclaves Qing, Tae Yul, ancien guerrier borgne, reprend son épée. Affrontant ses blessures et démons passés, il lutte pour l’honneur des guerriers et la vie de sa fille.</desc>
         <icon src="https://images.pluto.tv/series/695d031bdee1ecbcdd2ddff2/tile_1767760490521.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260324173847 +0000" stop="20260324190847 +0000">
+        <title>On The Ropes</title>
+        <desc>Enfants, John et Lee ont été adoptés par le chef d'une organisation criminelle. La notion de loyauté au sein de la "famille" a été la base de leur éducation et ils ont appris dès le plus jeune âge comment aider l'entreprise de leur père adoptif.</desc>
+        <icon src="https://images.pluto.tv/series/63abfff0bc6521001351e2a1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c9260ac0222700089ee62b" start="20260324133000 +0000" stop="20260324140000 +0000">
         <title>Family Club</title>
@@ -31583,7 +31613,12 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260324213000 +0000" stop="20260325013000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260324213000 +0000" stop="20260324221100 +0000">
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260324221100 +0000" stop="20260325013000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
