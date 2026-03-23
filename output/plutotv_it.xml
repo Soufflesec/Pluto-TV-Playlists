@@ -6281,6 +6281,11 @@
         <desc>Una comedia familiar sobre la envidia, conflictos de vecinos, decoración del hogar... y el espíritu navideño.</desc>
         <icon src="https://images.pluto.tv/series/6076b668235736001ac44373/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260324021308 +0000" stop="20260324042108 +0000">
+        <title>Perro al rescate</title>
+        <desc>El perro más consentido de Hollywood se pierde durante un rodaje y termina siendo la mascota de una estación local de bomberos.</desc>
+        <icon src="https://images.pluto.tv/series/6076b66e235736001ac44400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20260323213546 +0000" stop="20260323235546 +0000">
         <title>El jurado</title>
         <desc>En este thriller lleno de suspense, un "asesor" del jurado despiadado y de alto precio no se detendrá ante nada para asegurar un veredicto en un juicio explosivo.</desc>
@@ -6935,6 +6940,11 @@
         <title>Dredd</title>
         <desc>Una prostituta convertida en traficante de drogas pretende apoderarse de la ciudad futurista de Mega City One. El Juez Dredd, miembro destacado de una fuerza policial de élite, es la última esperanza de la ciudad.</desc>
         <icon src="https://images.pluto.tv/series/67613d914bf27b0013753899/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ce480a78df2200131c597b" start="20260324025301 +0000" stop="20260324035932 +0000">
+        <title>El doble asesinato en la calle Morgue</title>
+        <desc>A finales del siglo XIX, un sádico doctor de París se dedica a secuestrar a mujeres jóvenes para realizar experimentos que puedan ayudarle a confirmar sus teorías sobre la evolución del mono al hombre.</desc>
+        <icon src="https://images.pluto.tv/series/6638f1e341d4c70014ccfe2f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="676e7b4a4bd636000819c6a7" start="20260323200431 +0000" stop="20260323221631 +0000">
         <title>Valkiria</title>
@@ -10327,6 +10337,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>La prestigiosa escritora e historiadora Deborah E. Lipstadt debe luchar por la verdad histórica para demostrar que el Holocausto ocurrió realmente cuando David Irving, un renombrado negacionista, la demanda por difamación.</desc>
         <icon src="https://images.pluto.tv/series/673c49b8882f6d0013a70e5b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260324061130 +0000" stop="20260324080630 +0000">
+        <title>Siempre Alice</title>
+        <desc>Ganadora del Oscar a Mejor Actriz (Julianne Moore), 2014. La doctora Alice Howland es una profesora casada y madre de 3 hijos, no da importancia a los pequeños lapsus hasta que debe comenzar a luchar para seguir siendo Alice.</desc>
+        <icon src="https://images.pluto.tv/series/60d0438228f1d30013ed3e9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260324014600 +0000" stop="20260324023900 +0000">
         <title>Ted Bundy: Serial Monster</title>
         <desc>En la Universidad de Florida, Ted Bundy asesina brutalmente a cuatro mujeres en pocos minutos. Finalmente, es detenido, juzgado y condenado a muerte.</desc>
@@ -10997,10 +11012,10 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Michael quiere un nuevo techo convertible para su Morgan 1953, pero no se tienen referencias, ni guias ni puntos de anclaje. Butch le encargó su Camaro 1969 a un artista en estafas de restauración.</desc>
         <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6086d3f420fc8500075f8dbf" start="20260324020000 +0000" stop="20260324031500 +0000">
-        <title>Runtime</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6086d3f420fc8500075f8dbf" start="20260324010000 +0000" stop="20260324031500 +0000">
+        <title>Un hombre llamado Ove</title>
+        <desc>Ove es un hombre solitario de 59 años, gruñón y obsesionado con la disciplina y el orden, a quien el destino ha arrebatado demasiadas cosas. Sin embargo, la vida de Ove cambia para siempre cuando una familia se muda a la casa de al lado.</desc>
+        <icon src="https://images.pluto.tv/series/680d9ddba8cdcdbb7d15b794/tile_1745722851601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6086d3f420fc8500075f8dbf" start="20260324031500 +0000" stop="20260324050000 +0000">
         <title>Socorro, he encogido a mis padres</title>
@@ -11011,11 +11026,6 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <title>Villa Bella</title>
         <desc>Lola, Irina y Carmen responden a un anuncio de trabajo para un puesto de cuidadoras en una residencia de ancianos. Pronto el centro se encuentra al borde de la quiebra y las tres mujeres se las ingenian para salvar la residencia.</desc>
         <icon src="https://images.pluto.tv/series/699adb29e3f296ca540bbf08/tile_1771756330498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6086d3f420fc8500075f8dbf" start="20260324070000 +0000" stop="20260324090000 +0000">
-        <title>Los inadaptados</title>
-        <desc>Después de sufrir una broma de mal gusto que le gasta la chica más popular del instituto, Jodi y su mejor amiga Mindy traman una venganza formando una unión de los marginados para derrocar el cruel reinado de las más populares.</desc>
-        <icon src="https://images.pluto.tv/series/6857d456782266d4537409b8/tile_1750586456439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60d356a534f63f000850cdd7" start="20260324005915 +0000" stop="20260324020015 +0000">
         <title>Top Gear: Temporada 9, Episodio 5</title>
@@ -16013,6 +16023,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Zane, un astrónomo, descubre vida extraterrestre inteligente, pero los extraterrestres guardan un secreto mortal y harán cualquier cosa para evitar que Zane lo conozca.</desc>
         <icon src="https://images.pluto.tv/series/61ea6dd0161b65001a9c2ad3/tile_1769041081815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20260324101529 +0000" stop="20260324121331 +0000">
+        <title>El juego de Ender</title>
+        <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
+        <icon src="https://images.pluto.tv/series/67516488a7fde50013705b8d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64a3f200f238ce0008d47247" start="20260324054003 +0000" stop="20260324065003 +0000">
         <title>El Lector de Huesos: Caso Asunta Basterra</title>
         <desc>El 22 de septiembre de 2013 el cuerpo de asunta serna de 12 años fue encontrado en una pista forestal de un municipio de la coruña. Su padre alfonso basterra y su madre rosario porto fueron condenados por el asesinato.</desc>
@@ -18360,7 +18375,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
     </programme>
     <programme channel="67517f923a61d40008c451f0" start="20260324080000 +0000" stop="20260324085200 +0000">
         <title>Los líderes del nazismo</title>
-        <desc>El historiador James Ellis descubre cómo Heinrich Himmler orquestó el genocidio de millones de personas durante la Alemania nazi.</desc>
+        <desc>El historiador James Ellis, descubre cómo Heinrich Himmler orquestó el genocidio de millones de personas durante la Alemania nazi.</desc>
         <icon src="https://images.pluto.tv/series/69a00cfec2079c9496d4c3d5/tile_1772096767528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67517f923a61d40008c451f0" start="20260324085200 +0000" stop="20260324094400 +0000">
@@ -20202,6 +20217,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>¡Han llegado!</title>
         <desc>Zane, un astrónomo, descubre vida extraterrestre inteligente, pero los extraterrestres guardan un secreto mortal y harán cualquier cosa para evitar que Zane lo conozca.</desc>
         <icon src="https://images.pluto.tv/series/61ea6dd0161b65001a9c2ad3/tile_1769041081815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260324140132 +0000" stop="20260324153144 +0000">
+        <title>Prisioneros del sol</title>
+        <desc>Una expedición multinacional descubre una ciudad perdida bajo una pirámide en la que tendrán que detener a los dioses del antiguo Egipto que han despertado para iniciar el apocalipsis.</desc>
+        <icon src="https://images.pluto.tv/series/6995bd73cb38872a7e69e629/tile_1771421044151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260324092026 +0000" stop="20260324111726 +0000">
         <title>Ganar de cualquier manera</title>
@@ -22918,35 +22938,30 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Después de pagar a un contratista casi el monto completo de la obra, un contrato de ocho semanas duró quince meses y el trabajo nunca fue terminado.</desc>
         <icon src="https://images.pluto.tv/series/65eb2872038f3700136de17c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324085300 +0000" stop="20260324100300 +0000">
-        <title>Operación stonehenge: lo que yace bajo la superficie</title>
-        <desc>Segundo episodio de este documental que acompaña a un equipo de científicos en su tarea de desenterrar los secretos de este enigmático monumento.</desc>
-        <icon src="https://images.pluto.tv/series/69afde407596d5087df5dd0b/tile_1773133377698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324100300 +0000" stop="20260324111500 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20260324094400 +0000" stop="20260324105700 +0000">
         <title>La guerrera vikinga</title>
         <desc>En 1878, un grupo de arqueólogos que exploraba la isla de Björkö, en Suecia, descubrió una tumba vikinga. En ella estaba el esqueleto de una mujer, numerosos artefactos, una espada, una lanza, flechas y los restos de dos caballos sacrificados.</desc>
         <icon src="https://images.pluto.tv/series/678a6974ad928500139b39ee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324111500 +0000" stop="20260324120600 +0000">
-        <title>Los líderes del nazismo</title>
-        <desc>James Ellis explora cómo el ministro de propaganda violentamente antisemita, Joseph Goebbels, organizó una campaña de odio que allanó el camino para el Holocausto.</desc>
-        <icon src="https://images.pluto.tv/series/69a00cfec2079c9496d4c3d5/tile_1772096767528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324120600 +0000" stop="20260324125900 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20260324105700 +0000" stop="20260324115000 +0000">
         <title>Robert F. Kennedy: El presidente perdido de los Estados Unidos</title>
         <desc>Un repaso a la vida de Robert F. Kennedy y a cómo habría sido su mandato si se hubiera evitado su asesinato durante la campaña para la presidencia en 1968.</desc>
         <icon src="https://images.pluto.tv/series/678a6943ad928500139b28d0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324125900 +0000" stop="20260324135600 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20260324115000 +0000" stop="20260324124800 +0000">
         <title>Redescubriendo el T-Rex</title>
         <desc>Chris Packham investiga los misterios que envuelven al Tyrannosaurus Rex. Rompemos los mitos sobre su apariencia, su forma de moverse o cómo socializaba, de la mano de diferentes expertos internacionales.</desc>
         <icon src="https://images.pluto.tv/series/69afde407596d5087df5dc96/tile_1773133377511.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260324135600 +0000" stop="20260324150600 +0000">
-        <title>Operación stonehenge: lo que yace bajo la superficie</title>
-        <desc>Los megalitos de Stonehenge son el monumento más investigado de Gran Bretaña. Para resolver los misterios del monumento, los científicos han estado utilizando una estrategia nueva, centrándose no solo en las emblemáticas piedras.</desc>
-        <icon src="https://images.pluto.tv/series/69afde407596d5087df5dd0b/tile_1773133377698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67517f923a61d40008c451f0" start="20260324124800 +0000" stop="20260324134900 +0000">
+        <title>Los horrores de los médicos nazis</title>
+        <desc>El régimen nazi de Adolf Hitler implementó algunas de las prácticas de eugenesia más ridículas de la historia. Entre 1939 y 1945 se llevaron a cabo al menos 70 programas de investigación médica que implicaron experimentos con víctimas humanas.</desc>
+        <icon src="https://images.pluto.tv/series/684ac1fcd84aa57d9b95efcd/tile_1749729791899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517f923a61d40008c451f0" start="20260324134900 +0000" stop="20260324144100 +0000">
+        <title>Los líderes del nazismo</title>
+        <desc>El historiador James Ellis descubre cómo Heinrich Himmler orquestó el genocidio de millones de personas durante la Alemania nazi.</desc>
+        <icon src="https://images.pluto.tv/series/69a00cfec2079c9496d4c3d5/tile_1772096767528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cd8bb9d079f48dbbdfecb" start="20260324100000 +0000" stop="20260324103000 +0000">
         <title>Metal Rocks</title>
@@ -27600,7 +27615,7 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
     </programme>
     <programme channel="67517f923a61d40008c451f0" start="20260324134900 +0000" stop="20260324144100 +0000">
         <title>Los líderes del nazismo</title>
-        <desc>El historiador James Ellis, descubre cómo Heinrich Himmler orquestó el genocidio de millones de personas durante la Alemania nazi.</desc>
+        <desc>El historiador James Ellis descubre cómo Heinrich Himmler orquestó el genocidio de millones de personas durante la Alemania nazi.</desc>
         <icon src="https://images.pluto.tv/series/69a00cfec2079c9496d4c3d5/tile_1772096767528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67517f923a61d40008c451f0" start="20260324144100 +0000" stop="20260324153400 +0000">

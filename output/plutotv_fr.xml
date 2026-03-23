@@ -5405,9 +5405,9 @@ Nobita, Shizuka et Doraemon sauvent une vieille poupée des griffes d’un chien
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260323213000 +0000" stop="20260323215900 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260323215900 +0000" stop="20260323223800 +0000">
         <title>Boxing</title>
@@ -11921,6 +11921,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Prédateurs</title>
         <desc>Après avoir hérité d'une maison dans un village reculé, un jeune homme se retrouve dans un conflit brutal avec un dangereux magnat local.</desc>
         <icon src="https://images.pluto.tv/series/65b756c89eae9600132e326a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20260324070640 +0000" stop="20260324085940 +0000">
+        <title>Une trop belle cible</title>
+        <desc>Jodie Foster est Anne Benton, une artiste qui assiste malgré elle à un règlement de compte mafieux. La police veut qu'elle témoigne, la mafia veut qu'elle meure.</desc>
+        <icon src="https://images.pluto.tv/series/61dec3f068b5ad001a66860a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e0522443200008c567d7" start="20260324014916 +0000" stop="20260324024716 +0000">
         <title>Accusé: L'histoire de Sophie</title>
@@ -26863,6 +26868,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Malcolm Turner et son beau-fils s'infiltrent dans une école pour filles.</desc>
         <icon src="https://images.pluto.tv/series/67d3053846d66c4aa0314aae/tile_1768428458566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260324180902 +0000" stop="20260324200244 +0000">
+        <title>Rock Academy</title>
+        <desc>Jack Black endosse le rôle d'un guitariste transi qui finit par se faire virer de son groupe. Fauché, il usurpe l'identité d'un professeur de musique et transforme ses élèves, d'abord dubitatifs, en stars du rock'n'roll.</desc>
+        <icon src="https://images.pluto.tv/series/661f73791ed2fc0013e37922/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6823648580b2665220d9e69a" start="20260324133435 +0000" stop="20260324140435 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
@@ -30849,7 +30859,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
         <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb66537867f0007146953" start="20260324181400 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8eb66537867f0007146953" start="20260324181400 +0000" stop="20260324184400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260324184400 +0000" stop="20260324191400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260324191400 +0000" stop="20260324220000 +0000">
         <title>CATFISH TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb66537867f0007146953/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30859,7 +30879,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Dans cet épisode, l'équipe customise la Buick Century de Jake.</desc>
         <icon src="https://images.pluto.tv/series/5fe1b62a7f73ec001aa94e37/tile_1768033850946.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f92b56a367e170007cd43f4" start="20260324182224 +0000" stop="20260324220000 +0000">
+    <programme channel="5f92b56a367e170007cd43f4" start="20260324182224 +0000" stop="20260324184624 +0000">
+        <title>Pimp My Ride: 1957 Chevrolet Panel Truck</title>
+        <desc>Dans cet épisode, l'équipe customise le camion Chevrolet Panel de Cristi.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1b62a7f73ec001aa94e37/tile_1768033850946.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260324184624 +0000" stop="20260324190824 +0000">
+        <title>Pimp My Ride: 1977 Chevrolet Malibu</title>
+        <desc>Dans cet épisode, l'équipe customise la Chevrolet Malibu de Calvin.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1b62a7f73ec001aa94e37/tile_1768033850946.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260324190824 +0000" stop="20260324220000 +0000">
         <title>MTV CLASSICS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30869,7 +30899,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Nabilla vous emmène dans son quotidien aux quatre coins du monde ! Vous allez découvrir son franc-parler et son sens de l'humour.</desc>
         <icon src="https://images.pluto.tv/series/67b878d0fd0b09b4b64d4759/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6092544e7639460007d4835e" start="20260324180949 +0000" stop="20260324220000 +0000">
+    <programme channel="6092544e7639460007d4835e" start="20260324180949 +0000" stop="20260324185308 +0000">
+        <title>FRIENDS TRIP</title>
+        <desc>Des équipes d'amis inséparables ont décidé de tester leur amitié au cours d’une compétition hors du commun ! A la fin de l'aventure Friends Trip, qui sera élu Meilleur Ami et remportera les 50 000€ ?</desc>
+        <icon src="https://images.pluto.tv/series/67c6d3586db72076a3b73011/tile_1768265281721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6092544e7639460007d4835e" start="20260324185308 +0000" stop="20260324193908 +0000">
+        <title>House of Food : Apprentis sur le grill: La surcharge sensorielle</title>
+        <desc>La tension monte et la maison est divisée. Conséquence : une grosse bataille de nourriture</desc>
+        <icon src="https://images.pluto.tv/series/60015888cc17ce00130be1b6/tile_1768034639522.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6092544e7639460007d4835e" start="20260324193908 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6092544e7639460007d4835e/featuredImage_1752768298653.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30879,7 +30919,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>À l’aide d’une impulsion électromagnétique, VENOM fait fondre tous les équipements électriques. Le stratagème permet d’interrompre les 500 miles d’Indianapolis et de récupérer l’argent des billets.</desc>
         <icon src="https://images.pluto.tv/series/62134e9c5231f20013876660/tile_1768213738352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260324182228 +0000" stop="20260324220000 +0000">
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260324182228 +0000" stop="20260324184921 +0000">
+        <title>Pole Position</title>
+        <desc>Pour la première fois, Luc, Lise et Lisa vont pénétrer dans le quartier général de Pole position, mais à leur grande surprise, leur oncle Zachary n'est pas là pour les accueillir.</desc>
+        <icon src="https://images.pluto.tv/series/68109ef203a2ab14da473751/tile_1768266006134.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260324184921 +0000" stop="20260324191340 +0000">
+        <title>Sherlock Holmes in the 22nd Century</title>
+        <desc>Après le piratage de bases informatiques, une créature vampirique s’enferme dans le coffre-fort de la London First Bank.</desc>
+        <icon src="https://images.pluto.tv/series/68108ca0f5ddf73deb53f4c4/tile_1768266033573.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260324191340 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Retro Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30889,7 +30939,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>En demi-finale, Inazuma Japon aura pour adversaire l'équipe brésilienne, les Rois du Football. Mark est impatient de les affronter. Mais voilà que Mac Robingo, le capitaine brésilien, vient le voir pour lui demander de les laisser gagner.</desc>
         <icon src="https://images.pluto.tv/series/6137732974c96b001318adde/tile_1768082019104.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e75226b7f420007c3f319" start="20260324182100 +0000" stop="20260324220000 +0000">
+    <programme channel="611e75226b7f420007c3f319" start="20260324182100 +0000" stop="20260324184700 +0000">
+        <title>Inazuma Eleven: La conspiration de Zoolan Rice</title>
+        <desc>Seymour explique aux enfants que Zoolan Rice a organisé le tournoi FFI pour déclencher une guerre entre les pays participants.</desc>
+        <icon src="https://images.pluto.tv/series/6137732974c96b001318adde/tile_1768082019104.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260324184700 +0000" stop="20260324191300 +0000">
+        <title>Inazuma Eleven: Inazuma Japon contre les Rois du Football</title>
+        <desc>La première demi-finale du tournoi est lancée. Elle oppose le Brésil au Japon. Robingo a un comportement très étrange. Il joue perso, jusqu'à tacler ses propres coéquipiers. Le joueur brésilien marque un but juste avant la fin de la première période.</desc>
+        <icon src="https://images.pluto.tv/series/6137732974c96b001318adde/tile_1768082019104.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260324191300 +0000" stop="20260324220000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e75226b7f420007c3f319/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30899,7 +30959,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612e044c970e6f00083bcf3b" start="20260324183300 +0000" stop="20260324220000 +0000">
+    <programme channel="612e044c970e6f00083bcf3b" start="20260324183300 +0000" stop="20260324204400 +0000">
+        <title>Y'a que la vérité qui compte: Episode 100</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260324204400 +0000" stop="20260324220000 +0000">
         <title>Y'a que la vérité qui compte</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30909,7 +30974,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Le jeune Léo WILSON s'apprête à affronter Yugi au cours de la finale du tournoi ultime, mais une surprenante révélation vient tout boulverser.</desc>
         <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1768261321721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d9c712c2b000070abb50" start="20260324182000 +0000" stop="20260324220000 +0000">
+    <programme channel="6130d9c712c2b000070abb50" start="20260324182000 +0000" stop="20260324184500 +0000">
+        <title>Yu-Gi-Oh! FR: SECRETS DE FAMILLE Seconde Partie</title>
+        <desc>Léo affronte Yugi, mais refuse de gagner en trichant. Il désobéit donc à son frère Zigfried qui intrigue pour anéantir la Kaiba Corps.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1768261321721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260324184500 +0000" stop="20260324191000 +0000">
+        <title>Yu-Gi-Oh! FR: SECRETS DE FAMILLE Troisième Partie</title>
+        <desc>Yugi affronte Léo en duel et doit trouver un moyen de se débarrasser d’une carte que Zigfried a modifiée pour la rendre invincible. La tâche s’avère difficile.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1768261321721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260324191000 +0000" stop="20260324220000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30919,7 +30994,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Ken se livre à une expérience digne du docteur Frankenstein. Alors que les Tours noires assombrissent l'horizon, les Digi-sauveurs cherchent désespérément la cachette de l'Empereur. Miyako, elle, est en colère.</desc>
         <icon src="https://images.pluto.tv/series/6299abdcaefb2900143a7800/tile_1768195802215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="617bae1d69bca3000729561e" start="20260324180800 +0000" stop="20260324220000 +0000">
+    <programme channel="617bae1d69bca3000729561e" start="20260324180800 +0000" stop="20260324183400 +0000">
+        <title>Digimon Adventure: Le retour d’un vieil ennemi</title>
+        <desc>Ken a mené à bien son sinistre projet. Il a créé une chimère en utilisant le corps de Greymon, les pattes de Garurumon, la tête de Kabuterimon, les ailes d'Angemon et d'Airdramon et... la puissance maléfique de Devimon. Ce monstre, c'est Kimeramon.</desc>
+        <icon src="https://images.pluto.tv/series/6299abdcaefb2900143a7800/tile_1768195802215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260324183400 +0000" stop="20260324190000 +0000">
+        <title>Digimon Adventure: Les ténèbres avant l’aube</title>
+        <desc>Agumon aide les Digi-sauveurs à s'infiltrer dans la forteresse de l'Empereur des Digimon. Mais les combattants sont impuissants face au monstre qu'est Kimeramon. Wormon, voulant sauver Ken, conduit Daisuke à la source. C'est la naissance de Magnamon.</desc>
+        <icon src="https://images.pluto.tv/series/6299abdcaefb2900143a7800/tile_1768195802215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260324190000 +0000" stop="20260324192600 +0000">
+        <title>Digimon Adventure: La gentillesse paye toujours</title>
+        <desc>Magnamon est nimbé du pouvoir de la justice. Mais face à lui se dresse Kimeramon, exsudant la puissance du mal. Les deux poids lourds se battent et la base secrète ne tient pas le coup. Wormon est prêt à tout pour sauver celui qu'il aime tant.</desc>
+        <icon src="https://images.pluto.tv/series/6299abdcaefb2900143a7800/tile_1768195802215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260324192600 +0000" stop="20260324220000 +0000">
         <title>Digimon Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/617bae1d69bca3000729561e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30929,7 +31019,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Magazine de société quotidien présenté par Jean-Luc Delarue, puis par Sophie Davant. Des invités racontent leur histoire sur des thèmes ancrés dans notre vie quotidienne.</desc>
         <icon src="https://images.pluto.tv/series/6438097d8cd0fd001a331eeb/tile_1768278858848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e6aebcdda4000754fa47" start="20260324184100 +0000" stop="20260324220000 +0000">
+    <programme channel="62f3e6aebcdda4000754fa47" start="20260324184100 +0000" stop="20260324194500 +0000">
+        <title>Toute une histoire FR: Tout ce qu'on ne vous a jamais dit sur la ménopause ?</title>
+        <desc>Magazine de société quotidien présenté par Jean-Luc Delarue, puis par Sophie Davant. Des invités racontent leur histoire sur des thèmes ancrés dans notre vie quotidienne.</desc>
+        <icon src="https://images.pluto.tv/series/6438097d8cd0fd001a331eeb/tile_1768278858848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e6aebcdda4000754fa47" start="20260324194500 +0000" stop="20260324220000 +0000">
         <title>Toute une histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30939,7 +31034,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Heiji Hattori, qui prétend être un lycéen détective de la zone ouest du Japon, débarque à l’Agence de Détectives Privés Mouri avec l’intention de rencontrer Shinishi.</desc>
         <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e8ad2a8e8000077b013d" start="20260324181626 +0000" stop="20260324220000 +0000">
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260324181626 +0000" stop="20260324184426 +0000">
+        <title>Détective Conan: Meurtre d'un diplomate (2)</title>
+        <desc>Conan, qui se sentait souffrant et a préféré garder le lit, disparaît. Ran, qui s’inquiète, le cherche partout. Pendant ce temps, Hattori fait une estimation de l’heure du décès et trouve un cordon en Nylon.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260324184426 +0000" stop="20260324191226 +0000">
+        <title>Détective Conan: Meurtre à la bibliothèque</title>
+        <desc>L’Inspecteur Megure apparaît à la Bibliothèque de Beika où Conan et son équipe de jeunes détectives en herbe sont venus emprunter un livre. Ils découvrent que depuis 2 jours, le personnel est sans nouvelles d’un employé du nom de Kazuo Tamada.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260324191226 +0000" stop="20260324220000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/featuredImage-1745586978166.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30949,7 +31054,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
         <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3f05505e621000783df2f" start="20260324182155 +0000" stop="20260324220000 +0000">
+    <programme channel="62f3f05505e621000783df2f" start="20260324182155 +0000" stop="20260324185155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260324185155 +0000" stop="20260324192155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260324192155 +0000" stop="20260324220000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3f05505e621000783df2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30959,7 +31074,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Joey et Charlotte accueillent un couple de jeunes mariées qui veulent mettre leur amour à l'épreuve.</desc>
         <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f20c941c5d00089634e7" start="20260324182200 +0000" stop="20260324220000 +0000">
+    <programme channel="6304f20c941c5d00089634e7" start="20260324182200 +0000" stop="20260324191200 +0000">
+        <title>Just Tattoo of Us FR: Le diable est dans les détails</title>
+        <desc>Les meilleurs amis Jack et Grant vont se donner une leçon. Beth et Merissa craquent lors de la révélation. Tasmin choisit pour son copain Levi l'un des plus gros tatouages jamais vu dans l'émission.</desc>
+        <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260324191200 +0000" stop="20260324220000 +0000">
         <title>Just Tattoo of Us</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30969,7 +31089,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Une fois le plan de Bege exposé et accepté, il n'est plus possible de reculer. L'heure du grand Goûter approche inexorablement et toutes les pièces se mettent en place. Place aux complots !</desc>
         <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6380c94947c72b0007ee9a13" start="20260324180120 +0000" stop="20260324220000 +0000">
+    <programme channel="6380c94947c72b0007ee9a13" start="20260324180120 +0000" stop="20260324182644 +0000">
+        <title>One Piece FR</title>
+        <desc>L'heure de la noce est arrivée ! Les invités de marque débarquent, tous plus importants les uns que les autres. Et à l'entrée, en plus de Bege, trois monstrueux fils de Big Mom veillent au grain...</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260324182644 +0000" stop="20260324185210 +0000">
+        <title>One Piece FR</title>
+        <desc>Bege et ses pirates mettent en place les derniers préparatifs, pendant que Luffy et les siens profitent d'un rare instant de calme pour se reposer. Sanji et Pudding attendent la cérémonie.</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260324185210 +0000" stop="20260324191747 +0000">
+        <title>One Piece FR</title>
+        <desc>Au sommet de la pièce montée, le prêtre célèbre l'union. Mais la réaction de Sanji quand il soulève le voile ébranle la détermination de Pudding. Soudain, un coup de feu retentit !</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260324191747 +0000" stop="20260324220000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/featuredImage_1765795729899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30989,7 +31124,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>En 1988, Keith Slater, un professeur d'auto-école, est réveillé par la sonnette de son domicile. Alors qu'il ouvre la porte, il est poignardé mortellement. La police ne dispose que d'une brève description de l'assassin et d'une empreinte digitale.</desc>
         <icon src="https://images.pluto.tv/series/6613b9baa7a31d00170ca819/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63921a3d00c96100082a3cb4" start="20260324182200 +0000" stop="20260324220000 +0000">
+    <programme channel="63921a3d00c96100082a3cb4" start="20260324182200 +0000" stop="20260324191500 +0000">
+        <title>Cold Blood scènes de crime</title>
+        <desc>Sarah Anne Walker, agent immobilier, est retrouvée poignardée à mort dans une maison témoin. Les empreintes et les traces laissées sur la scène de crime sont inexploitables, étant donné le nombre de personnes ayant visité les lieux.</desc>
+        <icon src="https://images.pluto.tv/series/6613b9baa7a31d00170ca819/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63921a3d00c96100082a3cb4" start="20260324191500 +0000" stop="20260324220000 +0000">
         <title>Homicide</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30999,7 +31139,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Pour saluer les Journées du patrimoine, C’est pas sorcier décide de remonter le temps. Sabine et Jamy plongent au 6ème siècle avant Jésus-Christ et nous entraînent à la découverte du port d’Alexandrie et des cités englouties de la baie d’Aboukir.</desc>
         <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b579961bdba100071214cb" start="20260324180925 +0000" stop="20260324220000 +0000">
+    <programme channel="63b579961bdba100071214cb" start="20260324180925 +0000" stop="20260324184125 +0000">
+        <title>C'est Pas Sorcier FR</title>
+        <desc>Les grottes sont intimement liées à l’histoire de nos rivières : tandis que celles-ci creusent leur lit et s’enfoncent dans les vallées, les galeries souterraines se mettent doucement à plonger vers les entrailles de la Terre.</desc>
+        <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b579961bdba100071214cb" start="20260324184125 +0000" stop="20260324191425 +0000">
+        <title>C'est Pas Sorcier FR: L' hospital de la tête aux pieds</title>
+        <desc>A l'intérieur d'un grand hôpital pour enfants, nous suivons le parcours d'un jeune admis pour une opération chirurgicale et découvrons l'ensemble des services et des examens qui permettent sa prise en charge. Comment peut-on voir à l'intérieur du corps ?</desc>
+        <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b579961bdba100071214cb" start="20260324191425 +0000" stop="20260324220000 +0000">
         <title>C'est pas sorcier</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b579961bdba100071214cb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31009,7 +31159,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Hammond nous raconte l'histoire du championnat britannique des voitures de tourisme. Jeremy essaie une petite bombe électrique produite par Tesla. May se rend en Californie pour essayer la voiture la plus importante du futur : la Honda Clarity.</desc>
         <icon src="https://images.pluto.tv/series/651a7cb8a78f0d001a3b7cd4/tile_1768262402214.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c1093824ade50008bd117f" start="20260324181915 +0000" stop="20260324220000 +0000">
+    <programme channel="64c1093824ade50008bd117f" start="20260324181915 +0000" stop="20260324192015 +0000">
+        <title>Top Gear: Épisode 6</title>
+        <desc>Jeremy Clarkson, Richard Hammond et James May achètent de vieux roadsters britanniques à Jensen-Healey, Lotus et TVR.</desc>
+        <icon src="https://images.pluto.tv/series/651a7cb8a78f0d001a3b7cd4/tile_1768262402214.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c1093824ade50008bd117f" start="20260324192015 +0000" stop="20260324220000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c1093824ade50008bd117f/featuredImage_1760622806310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31019,7 +31174,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
         <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b756208700008d758ad" start="20260324183000 +0000" stop="20260324220000 +0000">
+    <programme channel="652d0b756208700008d758ad" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260324190000 +0000" stop="20260324193000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260324193000 +0000" stop="20260324220000 +0000">
         <title>Les Z'amours</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b756208700008d758ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31029,7 +31194,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
         <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b9ceb72580008a4ea5b" start="20260324180000 +0000" stop="20260324220000 +0000">
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260324180000 +0000" stop="20260324183000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260324190000 +0000" stop="20260324220000 +0000">
         <title>Qui veut gagner des millions?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31039,7 +31214,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
         <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1768263841907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a63275a402e00086bc8a5" start="20260324180205 +0000" stop="20260324220000 +0000">
+    <programme channel="662a63275a402e00086bc8a5" start="20260324180205 +0000" stop="20260324182900 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1768263841907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260324182900 +0000" stop="20260324185625 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1768263841907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260324185625 +0000" stop="20260324192351 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1768263841907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260324192351 +0000" stop="20260324220000 +0000">
         <title>Olive &amp; Tom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a63275a402e00086bc8a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31049,7 +31239,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Gingka et ses amis atteignent un temple où est sans doute caché un fragment d'étoile.</desc>
         <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664c8ba33d173b00080ef0c8" start="20260324182403 +0000" stop="20260324220000 +0000">
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260324182403 +0000" stop="20260324184928 +0000">
+        <title>Beyblade Metal Fury</title>
+        <desc>Gingka affronte Dynamis, le gardien du temple. Gingka semble avoir choisi la mauvaise stratégie.</desc>
+        <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260324184928 +0000" stop="20260324191453 +0000">
+        <title>Beyblade Metal Fury</title>
+        <desc>Dynamis tente d'expliquer à Johannes et ses sbires que quoi qu'ils fassent.</desc>
+        <icon src="https://images.pluto.tv/series/66a0c8308dfe2a00132ab4f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260324191453 +0000" stop="20260324220000 +0000">
         <title>Beyblade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31059,7 +31259,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Daria et la classe font une randonnée dans la vallée. Ils se retrouvent perdus dans le brouillard, abandonnés à leur sort.</desc>
         <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1773900721126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683b680efa2a10008e8a393" start="20260324181543 +0000" stop="20260324220000 +0000">
+    <programme channel="6683b680efa2a10008e8a393" start="20260324181543 +0000" stop="20260324184007 +0000">
+        <title>Daria</title>
+        <desc>Le quarterback vedette, Kevin, est sur le banc suite à une blessure. Il cherche un sens à une vie sans football.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1773900721126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260324184007 +0000" stop="20260324190415 +0000">
+        <title>Daria</title>
+        <desc>Daria bloque sur un exercice en classe sur la découverte de soi-même.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1773900721126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260324190415 +0000" stop="20260324220000 +0000">
         <title>Daria</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31069,7 +31279,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
         <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1768289882638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b228d4cd0d3100085d27b7" start="20260324183807 +0000" stop="20260324220000 +0000">
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260324183807 +0000" stop="20260324192755 +0000">
+        <title>Les Anges de la Téléréalité</title>
+        <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
+        <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1768289882638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260324183807 +0000" stop="20260324192755 +0000">
+        <title>Les Anges de la Téléréalité</title>
+        <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
+        <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1768289882638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260324192755 +0000" stop="20260324220000 +0000">
         <title>Les Anges</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b228d4cd0d3100085d27b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31079,7 +31299,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
         <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55c3955567d0008ef9b68" start="20260324180000 +0000" stop="20260324220000 +0000">
+    <programme channel="66f55c3955567d0008ef9b68" start="20260324180000 +0000" stop="20260324183000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260324190000 +0000" stop="20260324220000 +0000">
         <title>Turbo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31089,7 +31319,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Jeunes ou plus âgées, elles partagent toutes une même passion : le shopping ! Mais pour gagner le titre de Reine du shopping, les candidates le savent bien : c'est chacune pour soi !</desc>
         <icon src="https://images.pluto.tv/series/674048b1030a2c000825084e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55c55940963000810bb14" start="20260324183000 +0000" stop="20260324220000 +0000">
+    <programme channel="66f55c55940963000810bb14" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Les Reines du Shopping</title>
+        <desc>Jeunes ou plus âgées, elles partagent toutes une même passion : le shopping ! Mais pour gagner le titre de Reine du shopping, les candidates le savent bien : c'est chacune pour soi !</desc>
+        <icon src="https://images.pluto.tv/series/674048b1030a2c000825084e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c55940963000810bb14" start="20260324190000 +0000" stop="20260324193000 +0000">
+        <title>Les Reines du Shopping</title>
+        <desc>Jeunes ou plus âgées, elles partagent toutes une même passion : le shopping ! Mais pour gagner le titre de Reine du shopping, les candidates le savent bien : c'est chacune pour soi !</desc>
+        <icon src="https://images.pluto.tv/series/674048b1030a2c000825084e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c55940963000810bb14" start="20260324193000 +0000" stop="20260324220000 +0000">
         <title>Les Reines du Shopping</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55c55940963000810bb14/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31099,7 +31339,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
         <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55cf2483d460008f68746" start="20260324180000 +0000" stop="20260324220000 +0000">
+    <programme channel="66f55cf2483d460008f68746" start="20260324180000 +0000" stop="20260324183000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260324190000 +0000" stop="20260324220000 +0000">
         <title>Zone Interdite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55cf2483d460008f68746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31109,7 +31359,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
         <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260324183000 +0000" stop="20260324220000 +0000">
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260324190000 +0000" stop="20260324193000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260324193000 +0000" stop="20260324220000 +0000">
         <title>Les Marseillais</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d565e4a6e0008c2b9d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31119,7 +31379,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
         <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682318568e6c0f2f6c6e0038" start="20260324183000 +0000" stop="20260324220000 +0000">
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260324190000 +0000" stop="20260324193000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260324193000 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/featuredImage_1750772750994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31129,7 +31399,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Un pilote sent de la fumée dans le cockpit moins d’une heure après le décollage.</desc>
         <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1774275383028.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74c777ed3360cb6908bf" start="20260324184100 +0000" stop="20260324220000 +0000">
+    <programme channel="686e74c777ed3360cb6908bf" start="20260324184100 +0000" stop="20260324193500 +0000">
+        <title>Mayday : Catastrophe Aérienne</title>
+        <desc>Le vol RIA 593, reliant Moscou à Hong Kong, tombe du ciel.</desc>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1774275383028.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74c777ed3360cb6908bf" start="20260324193500 +0000" stop="20260324220000 +0000">
         <title>Mayday: Catastrophe Aérienne</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/featuredImage_1763054803003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31140,7 +31415,24 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
 Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra sa femme.</desc>
         <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260324180120 +0000" stop="20260324220000 +0000">
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260324180120 +0000" stop="20260324182521 +0000">
+        <title>Doraemon</title>
+        <desc>Fatigué d’être grondé et harcelé par son entourage, Nobita utilise le Bouton du Dictateur, pour faire disparaître tous ceux qui lui causent du tort. L’un après l’autre, ils s’effacent du monde… mais Nobita n’est-il pas allé trop loin ? 1&amp;2</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260324182521 +0000" stop="20260324184922 +0000">
+        <title>Doraemon</title>
+        <desc>Doraemon trouve des souris dans la maison. Il sort la Machine à Ondes Sonores Nocive... 
+Nobita et Doraemon trouvent le Passe-Partout qui permet à son détenteur d’entrer partout et de faire absolument tout ce qu’il souhaite.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260324184922 +0000" stop="20260324191323 +0000">
+        <title>Doraemon</title>
+        <desc>Lorsque la télévision, la caméra et le lave-linge de la maison Nobi tombent en panne, Doraemon sort le Tissu du Temps. 
+Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille boîte à insectes, Doraemon sort les Lunettes Fantastiques.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260324191323 +0000" stop="20260324220000 +0000">
         <title>Doraemon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/featuredImage_1760606457685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31150,7 +31442,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
         <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260324180800 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260324180800 +0000" stop="20260324183800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260324183800 +0000" stop="20260324190800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260324190800 +0000" stop="20260324220000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31160,7 +31462,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260324181000 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260324181000 +0000" stop="20260324184000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260324184000 +0000" stop="20260324191000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260324191000 +0000" stop="20260324220000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31170,7 +31482,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260324180719 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260324180719 +0000" stop="20260324183719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260324183719 +0000" stop="20260324190719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260324190719 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31180,7 +31502,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
         <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260324181518 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260324181518 +0000" stop="20260324184518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260324184518 +0000" stop="20260324191518 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>Entrez dans le monde de l'école maternelle emblématique avec Pluto TV Junior ! Rejoignez Dora l'exploratrice, Blaze et les Monster Machines, Bubble Guppies et Shimmer and Shine pour vous amuser, apprendre et faire des voyages magiques.</desc>
+        <icon src="https://images.pluto.tv/series/680b78a98e4b08935e20f1d3/tile_1745582250601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260324191518 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31190,7 +31522,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
         <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260324181000 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260324181000 +0000" stop="20260324184000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260324184000 +0000" stop="20260324191000 +0000">
+        <title>Tortues Ninja TV</title>
+        <desc>Cowabunga! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5e6b54c3b6934b85620e/tile_1745575809811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260324191000 +0000" stop="20260324220000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31200,7 +31542,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Carly, Sam, Spencer et Freddie se rendent au Japon pour les iWeb Awards. Après un vol qui a failli mal tourné, nos quatre amis se retrouvent dans un hôtel de Tokyo.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260324182500 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260324182500 +0000" stop="20260324185000 +0000">
+        <title>iCarly: Je l'ai vu la première</title>
+        <desc>Carly et Sam s'intéressent au même garçon, mais elles se jurent qu'il ne sèmera pas la zizanie entre elles. Malheureusement, les choses ne se déroulent pas si facilement et elles finissent par entrer en compétition.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260324185000 +0000" stop="20260324191500 +0000">
+        <title>iCarly: Pak-Rat</title>
+        <desc>Spencer devient accro à un jeu-vidéo et Carly doit intervenir. De son côté, Sam fait croire à Freddie qu'il est maudit pour avoir refusé de transmettre une lettre chaîne.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260324191500 +0000" stop="20260324220000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31210,7 +31562,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Some good old summer time sadness.</desc>
         <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4ec6/tile_1759230231362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260324180600 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260324180600 +0000" stop="20260324183800 +0000">
+        <title>FailFactory</title>
+        <desc>These dogs had a ruff day.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4ec6/tile_1759230231362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260324183800 +0000" stop="20260324191000 +0000">
+        <title>FailArmy Now</title>
+        <desc>A look at what youthful senior citizens, dozens of pugs and water fountains have in common.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb902e466f791b5fb54de/tile_1759230230391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260324191000 +0000" stop="20260324220000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31220,7 +31582,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Bo ignore que sa Corvette 1970 nécessite des tonnes de travaux, notamment sur sa carrosserie, abîmée par des vandales. Dan ramène à la vie la GTO 1964 de Steve que sa compagnie d’assurances a déclarée perte totale.</desc>
         <icon src="https://images.pluto.tv/series/60c90857ae2cc8001316f3ee/tile_1768075921253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260324180144 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260324180144 +0000" stop="20260324185044 +0000">
+        <title>FantomWorks</title>
+        <desc>Jerry laisse à FantomWorks un coupé d'affaire Plymouth 1939 en pièces détachées dans l'espoir que Dan en fera une voiture digne de ce nom. Bill demande à Dan de lui trouver une Gran Sport 1972 et l'équiper d'accessoires rares et fonctionnels.</desc>
+        <icon src="https://images.pluto.tv/series/60c90857ae2cc8001316f3ee/tile_1768075921253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260324185044 +0000" stop="20260324193944 +0000">
+        <title>FantomWorks: Thunder Time</title>
+        <desc>Dan installe un moteur GTO dans la Thunderbird 1956 de Ian pour en faire une voiture sport. Le doc Pellerin a remporté plusieurs prix grâce à sa Volvo PV 1937 avant que sa carrosserie ne s'endommage. Dan la restaurera pour lui.</desc>
+        <icon src="https://images.pluto.tv/series/60c90857ae2cc8001316f3ee/tile_1768075921253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260324193944 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Inside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31230,7 +31602,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>La péninsule Adriatique est un petit paradis pour amateurs d’eaux poissonneuses et de sports de pêche. Guy Martin va embarquer en compagnie de Giovanni et Toni.</desc>
         <icon src="https://images.pluto.tv/series/6017b45bb2c9b7001a3f397a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260324180713 +0000" stop="20260324220000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260324180713 +0000" stop="20260324183416 +0000">
+        <title>A Table Gastronomie</title>
+        <desc>Explorez la gastronomie française à travers ses régions, savourez des plats authentiques et découvrez les traditions culinaires qui font la richesse de chaque terroir.</desc>
+        <icon src="https://images.pluto.tv/series/67d3e4d3917edb2422d234c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260324183416 +0000" stop="20260324190102 +0000">
+        <title>A Table Gastronomie</title>
+        <desc>Explorez la gastronomie française à travers ses régions, savourez des plats authentiques et découvrez les traditions culinaires qui font la richesse de chaque terroir.</desc>
+        <icon src="https://images.pluto.tv/series/67d3e4d3917edb2422d234c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260324190102 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31240,7 +31622,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260324182314 +0000" stop="20260324220000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260324182314 +0000" stop="20260324185314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260324185314 +0000" stop="20260324192314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260324192314 +0000" stop="20260324220000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31250,7 +31642,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>On y observe le Brahmaea européen, un papillon unique au monde découvert dans les années 1960, et un oiseau migrateur qui, bien qu'il vienne de très loin, est aujourd'hui inextricablement lié à notre pays : le chevalier d'Italie.</desc>
         <icon src="https://images.pluto.tv/series/617a805c6b2c51001aee632e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260324181400 +0000" stop="20260324220000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260324181400 +0000" stop="20260324184500 +0000">
+        <title>Europe sauvage: L'Ami des Butteri</title>
+        <desc>La Maremme est une terre surprenante. Au fil du temps, elle a réussi à préserver sa nature dure et fascinante. Pour la dominer aujourd'hui restent les invincibles cowboys italiens, et leurs chevaux fiers, résistants et généreux.</desc>
+        <icon src="https://images.pluto.tv/series/617a805c6b2c51001aee632e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260324184500 +0000" stop="20260324192100 +0000">
+        <title>Europe sauvage: Vivre ensemble</title>
+        <desc>Les guêpes, nous le savons, ont une organisation sociale complexe. Ce à quoi nous ne pensons pas, cependant, c'est qu'elles devraient se méfier des prédateurs. Parmi ceux-ci se trouve le guêpier, un bel oiseau au plumage coloré.</desc>
+        <icon src="https://images.pluto.tv/series/617a805c6b2c51001aee632e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260324192100 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31260,7 +31662,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
         <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260324180200 +0000" stop="20260324220000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260324180200 +0000" stop="20260324183200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260324183200 +0000" stop="20260324190200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260324190200 +0000" stop="20260324220000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31270,7 +31682,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
         <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260324181900 +0000" stop="20260324220000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260324181900 +0000" stop="20260324184400 +0000">
+        <title>Charlotte aux Fraises: Fraisi rock and roll, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260324184400 +0000" stop="20260324190900 +0000">
+        <title>Charlotte aux Fraises: Le Fraisi voyage de Charlotte aux fraises, pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260324190900 +0000" stop="20260324220000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31280,7 +31702,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Oncle Quigley, lassé de ne pas être assez apprécié, quitte la maison et laisse à sa place une gouvernante très méchante.</desc>
         <icon src="https://images.pluto.tv/series/6152ee6e236ecd0013d8b4db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260324181259 +0000" stop="20260324220000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260324181259 +0000" stop="20260324183803 +0000">
+        <title>Les Entrechats</title>
+        <desc>Isidore tombe nez-à-nez avec le squelette d'un requin alors qu'il tente de dérober sa marchandise au poissonnier du marché. // Les Entrechats aident une amie à reconquérir le coeur de son ancien amoureux.</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260324183803 +0000" stop="20260324190307 +0000">
+        <title>Les Entrechats</title>
+        <desc>Isidore ne tolère plus les reproches qui lui sont faits : il s'en va pour l'armée, clamant que le quartier s'en sortira mieux sans lui de toute façon. // Les Entrechats embêtent César tant et si bien qu'il finit par être renvoyé!</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260324190307 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31290,7 +31722,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Paul Shull recherche le meilleur fusil de précision de la Seconde Guerre mondiale.</desc>
         <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260324183137 +0000" stop="20260324220000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260324183137 +0000" stop="20260324192557 +0000">
+        <title>Aux Armes!</title>
+        <desc>Paul se dirige en direction sud à la recherche de l'artillerie de la guerre de Sécession.</desc>
+        <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260324192557 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31300,7 +31737,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Située à l'extrémité est de l'Amérique du Nord, Terre-Neuve a des allures de bout du monde.</desc>
         <icon src="https://images.pluto.tv/series/66c83bedd404600013082d99/tile_1768264207433.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260324182730 +0000" stop="20260324220000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260324182730 +0000" stop="20260324192405 +0000">
+        <title>Chacun son Île</title>
+        <desc>Berceau de la mythologie grecque, la Crète est un lieu pittoresque, riche en traditions.</desc>
+        <icon src="https://images.pluto.tv/series/66c83bedd404600013082d99/tile_1768264207433.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260324192405 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31310,7 +31752,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260324180423 +0000" stop="20260324220000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260324180423 +0000" stop="20260324183423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260324183423 +0000" stop="20260324190423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260324190423 +0000" stop="20260324220000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31320,7 +31772,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Icône du théâtre de boulevard, Maria Pacôme évoque avec franchise et humour des pans de sa vie de femme et les points d'orgue de sa carrière. Dans sa maison au décor champêtre, rencontre avec une comédienne pas comme les autres.</desc>
         <icon src="https://images.pluto.tv/series/65c0ea4be764c00014459101/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639b54404cfdf7000729b3c1" start="20260324185200 +0000" stop="20260324220000 +0000">
+    <programme channel="639b54404cfdf7000729b3c1" start="20260324185200 +0000" stop="20260324193700 +0000">
+        <title>Les jeux de 20 heures</title>
+        <desc>Émission présentée par Maurice Favières et Jean-Pierre Descombes. Trois personnalités et des candidats sélectionnés à Strasbourg s'affrontent en duplex sur des jeux de la langue française. C'est l'intraitable maître Capello qui arbitre le jeu !</desc>
+        <icon src="https://images.pluto.tv/series/65c0ea4ce764c000144592b9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260324193700 +0000" stop="20260324220000 +0000">
         <title>INA 70</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31330,7 +31787,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260324183000 +0000" stop="20260324220000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260324190000 +0000" stop="20260324193000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260324193000 +0000" stop="20260324220000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31340,7 +31807,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260324180500 +0000" stop="20260324220000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260324180500 +0000" stop="20260324182900 +0000">
+        <title>Auction Hunters: Les machines à fabriquer des monstres lucratives</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260324182900 +0000" stop="20260324185300 +0000">
+        <title>Auction Hunters: Les enchérisseurs de Beantown</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260324185300 +0000" stop="20260324191700 +0000">
+        <title>Auction Hunters: Surprise en sidecar</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1768262041702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260324191700 +0000" stop="20260324220000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31350,7 +31832,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Grâce aux pouvoirs magiques de la lorgnette d'une sorcière, les rôles des habitants de la maison sont inversés : les cafards sont maintenant aussi grands qu'Oggy, tandis que les chats deviennent aussi petits que les cafards ! Oggy et Jack tentent de récup</desc>
         <icon src="https://images.pluto.tv/series/605ca44a676b99001b921289/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260324180556 +0000" stop="20260324220000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260324180556 +0000" stop="20260324183044 +0000">
+        <title>Martin Mystère: Terreur à Torrington</title>
+        <desc>Lorsque Martin apprend que son auteur du paranormal favori (penser à: un genre Stephen King, barbu et excentrique) vient dans la ville de Torrington pour signer des autographes pour son livre, il est totalement excité!</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260324183044 +0000" stop="20260324185532 +0000">
+        <title>Martin Mystère: L'étrange Noël de Martin</title>
+        <desc>Martin est un adolescent de 16 ans presque normal. En effet, quand il ne va pas au lycée il est agent spécial pour « Le Centre », une organisation secrète chargée de traquer les monstres et les phénomènes paranormaux.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260324185532 +0000" stop="20260324192020 +0000">
+        <title>Martin Mystère: Le Monstre des Monstres 1ère Partie</title>
+        <desc>MOM appelle Martin et Diana au Centre pour leur annoncer que les résultats de leurs évaluations annuelles sont arrivés. Et comme prévu, Martin a obtenu une note brillante. Diana, en revanche, n'a pas de bons résultats du tout.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260324192020 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31360,7 +31857,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260324181721 +0000" stop="20260324220000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260324181721 +0000" stop="20260324184721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260324184721 +0000" stop="20260324191721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260324191721 +0000" stop="20260324220000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31370,7 +31877,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260324180000 +0000" stop="20260324220000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260324180000 +0000" stop="20260324183000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260324190000 +0000" stop="20260324220000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31380,7 +31897,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260324180000 +0000" stop="20260324220000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260324180000 +0000" stop="20260324183000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260324183000 +0000" stop="20260324190000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260324190000 +0000" stop="20260324220000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31390,7 +31917,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Cet épisode propose un retour sur les meilleurs moments de Pêche à haut risque, des prises les plus exceptionnelles aux rivalités les plus féroces, et offre un aperçu de la saison à venir.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260324184635 +0000" stop="20260324220000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260324184635 +0000" stop="20260324194134 +0000">
+        <title>Wicked Tuna</title>
+        <desc>C'est le jour de l'ouverture de la saison de pêche au thon rouge, et la première prise peut rapporter gros. Tous les capitaines se démènent pour capturer un thon.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260324194134 +0000" stop="20260324220000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31400,7 +31932,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Chronique d'un succès gastronomique et marketing, celui du macaron désormais vendu dans les petits commerces de bouche comme dans la grande distribution.</desc>
         <icon src="https://images.pluto.tv/series/68348982dfc07775ff34d0a3/tile_1748273540895.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260324185800 +0000" stop="20260324220000 +0000">
+    <programme channel="680291e38e1ff89c2427aefd" start="20260324185800 +0000" stop="20260324195100 +0000">
+        <title>La terre vue du train</title>
+        <desc>Savourez le monde ! Plongez dans des saveurs envoûtantes avec notre chaîne dédiée à la gastronomie et aux voyages.</desc>
+        <icon src="https://images.pluto.tv/series/683482d60f8298da56907dbc/tile_1748271834266.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260324195100 +0000" stop="20260324220000 +0000">
         <title>Voyages &amp; Saveurs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31410,7 +31947,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Accessoiriser sa cuisine, un hôtel particulier,  les fenêtres de toit et Sylvie Maréchal</desc>
         <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a999bd33909bdd7d2fb1e" start="20260324184819 +0000" stop="20260324220000 +0000">
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260324184819 +0000" stop="20260324195704 +0000">
+        <title>La Maison France 5</title>
+        <desc>La Maison France 5 poursuit son périple en Uruguay et met le cap sur La Barra, un ancien village de pêcheurs devenu une station balnéaire incontournable.</desc>
+        <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260324195704 +0000" stop="20260324220000 +0000">
         <title>La maison France 5</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/featuredImage_1751876561893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31420,7 +31962,22 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
         <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260324180603 +0000" stop="20260324220000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260324180603 +0000" stop="20260324182510 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260324182510 +0000" stop="20260324184441 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260324184441 +0000" stop="20260324190531 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260324190531 +0000" stop="20260324220000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31430,7 +31987,12 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260324180517 +0000" stop="20260324220000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260324180517 +0000" stop="20260324190926 +0000">
+        <title>Thomas &amp; Friends: The Great Race (S20)</title>
+        <desc>La course est lancée ! En participant au Grand Salon ferroviaire avec les meilleures locomotives du monde entier, Thomas et ses amis s’apprêtent à vivre une aventure aux quatre coins du globe !</desc>
+        <icon src="https://images.pluto.tv/series/694a62a4d405d15a9576a0d9/tile_1766482598094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260324190926 +0000" stop="20260324220000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31440,7 +32002,17 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <desc>Le puant / Les schtroumpfs pompiers</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260324180818 +0000" stop="20260324220000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260324180818 +0000" stop="20260324183400 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Le tableau merveilleux</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260324183400 +0000" stop="20260324190115 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Gargamel vole / Le premier coup de téléschtroumpf</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1759822137074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260324190115 +0000" stop="20260324220000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
