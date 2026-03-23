@@ -26022,6 +26022,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Michael Finkel rencontre l'assassin qui a usurpé son identité.</desc>
         <icon src="https://images.pluto.tv/series/67da754846d66c4aa05f3d12/tile_1768423366345.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260324215142 +0000" stop="20260324235553 +0000">
+        <title>Entre las piernas</title>
+        <desc>Tout débute lors d’une réunion de sexopathes anonymes où Javier rencontre Miranda. Attirés l’un par l’autre, ils cèdent à leur désir dans une voiture d’un parking souterrain, où l’on découvrira plus tard un cadavre.</desc>
+        <icon src="https://images.pluto.tv/series/698457d88c4cf95f2a36a302/tile_1770280921045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260324171236 +0000" stop="20260324195536 +0000">
         <title>Le droit de tuer?</title>
         <desc>Après le viol de sa fille de dix ans par deux Blancs qui se croient au dessus de la loi, le père se fait justice en abattant les deux violeurs.</desc>
@@ -26630,6 +26635,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     <programme channel="662a622b5e2370000800f392" start="20260324201006 +0000" stop="20260324214146 +0000">
         <title>Faites Entrer L'Accusé: Joël Matencio, le groupe 666</title>
         <desc>Durant l'été 1976, un groupuscule se réclamant des Brigades Rouges crée une véritable psychose dans la région de Grenoble.</desc>
+        <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1768263483299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a622b5e2370000800f392" start="20260324214146 +0000" stop="20260324230609 +0000">
+        <title>Faites Entrer L'Accusé: Raoul Becquerel, l'homme qui enlevait les femmes</title>
+        <desc>Fin août 2004, Caroline est agressée sur un parking d'Angoulême, enlevée puis séquestrée avant d'être violée à plusieurs reprises.</desc>
         <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1768263483299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6683cd2fca74680008772545" start="20260324165111 +0000" stop="20260324174611 +0000">
@@ -31573,12 +31583,7 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260324213000 +0000" stop="20260324221100 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260324221100 +0000" stop="20260325013000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260324213000 +0000" stop="20260325013000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
